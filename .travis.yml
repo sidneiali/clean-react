@@ -7,5 +7,5 @@ script:
 build:
   provider: heroku
   api_key: $HEROKU_API
-  app: fordevs-react
+  app: sidnei-clean-react
   skip_cleanup: true
